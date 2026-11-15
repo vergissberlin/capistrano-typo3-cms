@@ -22,7 +22,7 @@ group :spec, :development do
 	gem 'capistrano', :require => false
 	gem 'capistrano-spec', :git => 'git://github.com/mydrive/capistrano-spec.git'
 	gem 'railsless-deploy', :require => false
-	gem 'rspec', '2.14.1'
+	gem 'rspec', '3.13.2'
 	gem 'rake'
 end
 
