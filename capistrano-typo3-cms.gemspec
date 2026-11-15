@@ -48,7 +48,7 @@ Gem::Specification.new do |specification|
 	specification.add_dependency 'capistrano-ext', '~> 1.2.1'
 	specification.add_dependency 'railsless-deploy', '~> 1.1.1'
 
-	specification.add_development_dependency 'bundler', '~> 1.3'
+	specification.add_development_dependency 'bundler', '~> 4.0'
 	specification.add_development_dependency 'capistrano', '~>  2.15.2'
 	specification.add_development_dependency 'coveralls', '~> 0.7.0'
 	specification.add_development_dependency 'capistrano-spec', '~> 0.6.3'
