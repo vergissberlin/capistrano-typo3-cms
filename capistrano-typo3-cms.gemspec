@@ -50,7 +50,7 @@ Gem::Specification.new do |specification|
 
 	specification.add_development_dependency 'bundler', '~> 1.3'
 	specification.add_development_dependency 'capistrano', '~>  2.15.2'
-	specification.add_development_dependency 'coveralls', '~> 0.7.0'
+	specification.add_development_dependency 'coveralls', '~> 0.8.0'
 	specification.add_development_dependency 'capistrano-spec', '~> 0.6.3'
 	specification.add_development_dependency 'guard', '~> 2.1.0'
 	specification.add_development_dependency 'guard-rspec', '~> 4.0.1'
