@@ -53,7 +53,7 @@ Gem::Specification.new do |specification|
 	specification.add_development_dependency 'coveralls', '~> 0.7.0'
 	specification.add_development_dependency 'capistrano-spec', '~> 0.6.3'
 	specification.add_development_dependency 'guard', '~> 2.1.0'
-	specification.add_development_dependency 'guard-rspec', '~> 4.0.1'
+	specification.add_development_dependency 'guard-rspec', '~> 4.7.0'
 	specification.add_development_dependency 'minitest'
 	specification.add_development_dependency 'minitest-reporters'
 	specification.add_development_dependency 'hoe', '~> 3.7.1'
