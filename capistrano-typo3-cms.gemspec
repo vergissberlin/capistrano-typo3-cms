@@ -44,12 +44,12 @@ Gem::Specification.new do |specification|
 	specification.extra_rdoc_files = %w(LICENSE.txt)
 	specification.rdoc_options << '--title' << 'Capistrano TYPO3 CMS Deployment' << '--main' << 'README.md' << '--line-numbers' << '--one-file'
 
-	specification.add_dependency 'capistrano', '~>  2.15.5'
+	specification.add_dependency 'capistrano', '~>  3.20.0'
 	specification.add_dependency 'capistrano-ext', '~> 1.2.1'
 	specification.add_dependency 'railsless-deploy', '~> 1.1.1'
 
 	specification.add_development_dependency 'bundler', '~> 1.3'
-	specification.add_development_dependency 'capistrano', '~>  2.15.2'
+	specification.add_development_dependency 'capistrano', '~>  3.20.0'
 	specification.add_development_dependency 'coveralls', '~> 0.7.0'
 	specification.add_development_dependency 'capistrano-spec', '~> 0.6.3'
 	specification.add_development_dependency 'guard', '~> 2.1.0'
