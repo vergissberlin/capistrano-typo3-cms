@@ -56,7 +56,7 @@ Gem::Specification.new do |specification|
 	specification.add_development_dependency 'guard-rspec', '~> 4.0.1'
 	specification.add_development_dependency 'minitest'
 	specification.add_development_dependency 'minitest-reporters'
-	specification.add_development_dependency 'hoe', '~> 3.7.1'
+	specification.add_development_dependency 'hoe', '~> 4.7.0'
 	specification.add_development_dependency 'rspec', '~> 2.14.1'
 	specification.add_development_dependency 'rake', '~> 10.1.0'
 
